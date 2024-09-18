@@ -1,8 +1,15 @@
 def print_variables(): #this function prints the variables (do not remove this function)
     
 
+    double = 1.5 #this is a double variable
+    integer = 1 #this is an integer variable
+    string = "Hello World!" #this is a string variable
 
-    #Your code goes here
+    #print the variables
+    print(double)
+    print(integer)
+    print(string)
+
     
 
     
