@@ -1,0 +1,22 @@
+In this activity, you will be completing the program below.
+
+    Problem: Basic Variable Initialization and Output
+    Difficulty: Easy
+
+    You are tasked with writing a simple program to get familiar with basic variable types and printing output to the console.
+    To build good habits, leave comments in your code to improve readability.
+
+    Task:
+    Write a program in Java, C++, or Python that does the following:
+
+    Initializes a double variable with a value of 5.5.
+    Initializes an integer variable with a value of 10.
+    Initializes a string variable with a value of "Hello World".
+    Prints each of these variables to the console, each on a new line.
+
+    Example Output:
+    5.5
+    10
+    Hello World
+
+Under the LCProblem1 folder, there will be 3 files, LCP1.java, LCP1.cpp, and LCP1.py. Depending on what language you are comfotable with, pick the file that is pre made. Once you have completed your program, and the output is correct. Make sure to commit your code to your branch. 
