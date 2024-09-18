@@ -3,14 +3,9 @@ using namespace std;  // This line is used to include the standard namespace in 
 
 int main()
 {
-    // Initialize variables
-    double myDouble = 5.5;
-    int myInt = 10;
-    string myString = "Hello World";
+    
+    // Your code goes here
 
-    // Print variables
-    cout << myDouble << endl;
-    cout << myInt << endl;
-    cout << myString << endl;
+
     return 0; //Ignore this line (do not delete it)
 }
