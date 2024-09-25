@@ -1,0 +1,22 @@
+Problem: Sum of Positive Numbers
+    
+    You are given a list of integers. Your task is to write a function that finds the sum of all positive numbers in the list.
+
+    Input:
+        - [numbers]: A list of integers, where the list length is between 1 and 100. Each integer can range from -1000 to 1000.
+    Output:
+        - Return the sum of all positive integers in the list. If there are no positive numbers, return 0.
+
+    Example 1:
+        Input: [1, -4, 7, 12]
+        Output: 20
+
+    TESTCASES YOU NEED TO PASS (Make sure your program works for all these test cases)
+        Input: [-10, -20, -30, -40]
+        Expected Output: 0
+
+        Input: [0, -2, 3, 0, 5]
+        Expected Output: 8
+
+        Input: [100, 200, 300, 400]
+        Expected Output: 1000
