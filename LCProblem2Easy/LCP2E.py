@@ -1,9 +1,11 @@
-def LCProblem2Easy(): #this function prints the variables (do not remove this function)
+# def LCProblem2Easy(): #this function prints the variables (do not remove this function)
     
 
 
     #Your code goes here
-    return 0 #delete this line when you start coding
+    # return 0 #delete this line when you start coding
 
     
-print(LCProblem2Easy()) #this line calls the function to print the variables (do not remove this line)
+# print(LCProblem2Easy()) #this line calls the function to print the variables (do not remove this line)
+
+print("hello world")
