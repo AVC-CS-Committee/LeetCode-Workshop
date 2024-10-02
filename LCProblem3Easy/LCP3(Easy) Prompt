@@ -1,0 +1,26 @@
+Problem: Count the Even Numbers
+
+    You are given a list of integers. Your task is to write a function that counts how many even numbers are in the list.
+
+    Input:
+        -[numbers]: A list of integers, where the list length is between 1 and 100. Each integer can range from -1000 to 1000.
+
+    Output:
+        -Return the count of even numbers in the list.
+        
+    Example 1:
+        Input: [1, 2, 3, 4, 5, 6]
+        Output: 3
+    Example 2:
+        Input: [-5, -2, 0, 7, 9]
+        Output: 2
+
+    TESTCASES YOU NEED TO PASS (Make sure your program works for all these test cases)
+        Input: [0, 2, -2, 999, -1000, 1, 3, 5]
+        Expected Output: 3
+
+        Input: [-3, -5, -7, -9, -11]
+        Expected Output: 0
+
+        Input: [1000, -1000, 2, 4, 6, -8]
+        Expected Output: 6

@@ -7,10 +7,10 @@ Welcome to the CS Committee **LeetCode Workshop** repository! 🚀 This reposito
 | **Session**  | **Topic**                      | **Date**       | **Problems Covered**                        |
 |--------------|---------------------------------|----------------|---------------------------------------------|
 | Session 1    | Variables & Strings             | 09/18/2024     | [Problem 1](https://docs.google.com/document/d/1WyRnhCEDad05fie-3vEXo_AF06NcMALZ6opEJZUCmC0/edit#heading=h.xfwu1rpfaxh)                          |
-| Session 2    | ______________                  | 09/25/2024     | [Problem 3](link), [Problem 4](link)        |
-| Session 3    | ______________                  | 10/02/2024     | [Problem 5](link), [Problem 6](link)        |
-| Session 4    | ______________                  | 10/09/2024     | [Problem 7](link), [Problem 8](link)        |
-| Session 5    | ______________                  | MM/DD/YYYY     | [Problem 9](link), [Problem 10](link)       |
+| Session 2    | Basic Recursion - Hash Sets     | 09/25/2024     | [Problem 2](https://docs.google.com/document/d/1Xh0kohttp1XzZ3i1asqR5SoShS4rqycII2fskR732Ok/edit#heading=h.xfwu1rpfaxh)|
+| Session 3    | Looping Logic - Stacks          | 10/02/2024     | [Problem 3](https://docs.google.com/document/d/1nDGIryzF53CReAFZE_5A4djpY0xbmnTSMA-z959db7s/edit?usp=sharing)|
+| Session 4    | ______________                  | 10/09/2024     | [Problem 4](link)|
+| Session 5    | ______________                  | MM/DD/YYYY     | [Problem 5](link)|
 
 ## 📚 Prerequisites
 
