@@ -3,6 +3,8 @@ The Prompt for this question will be found on neetcode (different website than l
     When testing your program, feel free to run it through the neetcode compiler to test different test cases. Once your program is able
     to pass all testcases, make sure to label your commit accordingly
 
+    Hint: This problem is best solved with a stack.
+
     Link to Doc - https://docs.google.com/document/d/1nDGIryzF53CReAFZE_5A4djpY0xbmnTSMA-z959db7s/edit?usp=sharing
     Link to LC Question - https://neetcode.io/problems/validate-parentheses
     
